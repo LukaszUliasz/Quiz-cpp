@@ -1,0 +1,72 @@
+Typ zmiennych o nazwie float przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+c
+Typ zmiennych o nazwie int przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+a
+Typ zmiennych o nazwie char przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+d
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcja:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+d
+Ktora deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+x=integer;
+a
+Z jakiego przedzialu zostanie wylosowana liczba: rand()%10+2
+0..9
+2..9
+2..11
+0..11
+c
+Ile razy wykona sie petla: for (int i=4; i>=-2; i--)
+ani razu
+nieskonczenie wiele razy
+6
+7
+d
+Przykladem nieskonczonej petli jest
+for(;;)
+while(int i < nieskonczonosc)
+for(int i<0; i>0; i*i)
+while(100*100)
+a
+Poprawyna deklaracja procedury fun1 to:
+int fun1;
+int* fun1;
+void fun1;
+string fin1;
+c
+Funkcja system("cls"):
+Czysci ekran konsoli
+Otwiera nowe puste okno konsoli
+Po wywolaniu resetuje system
+Czysci pamiec RAM z niepotrzebnych danych
+a
+Poprawny zapis strumienia wejsciowego to:
+cin<<zmienna;
+cout<<zmienna;
+cout<<"zmienna"
+cin>>zmienna;
+d
+funkcja exit() zaweira sie w biblootece
+<windows.h>
+<iostream>
+<cstdlib>
+<time.h>
+c
